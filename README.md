@@ -13,11 +13,11 @@ A Linear Regression machine learning model is used to perform the prediction.
 - Scikit-learn
 
 ##  Project Structure
-student-performance-ml/
-├── data.csv
-├── student_performance.py
-├── README.md
-├── requirements.txt
+student-performance-ml/<br>
+├── data.csv<br>
+├── student_performance.py<br>
+├── README.md<br>
+├── requirements.txt<br>
 
 ##  How to Run
 1. Install required libraries  
@@ -40,3 +40,4 @@ Input:
 
 Output:
 - Predicted Score: ~76.13
+
